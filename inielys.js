@@ -1,1 +1,1 @@
-console.log("Ni hao wo shi ni de pengyou!")
+console.log("Ni hao wo shi ni de pengyou!"):
